@@ -40,5 +40,4 @@
 
 ---
 
-✨ *This is a special repository because the `README.md` appears directly on my GitHub profile.*  
-📌 *Click the preview link to learn more about me!*
+
