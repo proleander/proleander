@@ -2,7 +2,7 @@
 
 🎯 **Supervisor de TI | Desenvolvedor | Fundador da Startup Agro.Tech |ADS na FIAP**  
 💼 Apaixonado por tecnologia e inovação, com mais de 15 anos de experiência em suporte e infraestrutura de TI.  
-💡 Atualmente expandindo minhas habilidades em desenvolvimento e DevOps e inovação.
+
 
 ---
 
