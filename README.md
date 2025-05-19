@@ -1,43 +1,41 @@
-# 👋 Hi, I'm Leandro!  
+# 👋 Olá, eu sou o Leandro!
 
-🎯 **IT Supervisor | Developer | ADS Student at FIAP**  
-💼 Passionate about technology and innovation, with over 10 years of experience in IT support and infrastructure.  
-💡 Currently expanding my skills in development and DevOps.  
-
----
-
-## 🛠️ Skills and Technologies  
-
-- **Infrastructure and Networks**: Server administration, project management, and audits.  
-- **Development**:  
-  - Frontend: React, HTML, CSS, JavaScript.  
-  - Database: Oracle SQL.
-  - Backend: Python, Java, Node.js 
-- **Agile Methodologies**: Scrum, leadership, and agile development.  
-- **DevOps Tools**: Interest in Docker, Kubernetes, and CI/CD.  
+🎯 **Supervisor de TI | Desenvolvedor | Fundador da Startup Agro.Tech |ADS na FIAP**  
+💼 Apaixonado por tecnologia e inovação, com mais de 15 anos de experiência em suporte e infraestrutura de TI.  
+💡 Atualmente expandindo minhas habilidades em desenvolvimento e DevOps e inovação.
 
 ---
 
-## 🌟 Highlighted Projects  
+## 🛠️ Habilidades e Tecnologias
 
-- **Tilibris (Financial Control Fintech)**  
-  An innovative platform to help users manage their expenses and make smarter financial decisions.  
-
----
-
-## 🎓 Education  
-
-- Degree in **Computer Networks**.  
-- Currently studying **Analysis and Systems Development (ADS)** at FIAP.  
+- **Infraestrutura e Redes**: Administração de servidores, gestão de projetos e auditorias.  
+- **Desenvolvimento**:  
+  - Frontend: React, HTML, CSS, JavaScript  
+  - Banco de Dados: Oracle SQL  
+  - Backend: Python, Java, Node.js  
+- **Metodologias Ágeis**: Scrum, liderança e desenvolvimento ágil  
+- **Ferramentas DevOps**: Docker, Kubernetes e CI/CD  
 
 ---
 
-## 🌍 What I'm looking for  
+## 🌟 Projetos em Destaque
 
-- Improving my English and exploring global opportunities.  
-- Contributing to open-source projects.  
-- Growing in Development, DevOps, and project management.  
+- **Tilibris (Fintech de Controle Financeiro)**  
+  Uma plataforma inovadora para ajudar os usuários a gerenciar seus gastos e tomar decisões financeiras mais inteligentes.
+  
 
 ---
 
+## 🎓 Formação
 
+- Graduação em **Redes de Computadores**  
+- **Análise e Desenvolvimento de Sistemas (ADS)** na FIAP
+
+---
+
+## 🌍 O que estou buscando
+
+- Aprimorar meu inglês e explorar oportunidades globais  
+- Contribuir com projetos de código aberto  
+- Crescer nas áreas de Desenvolvimento, DevOps e Gestão de Projetos
+- Oportunidades de Inovação 
