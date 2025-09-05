@@ -10,10 +10,11 @@
 
 - **Infraestrutura e Redes**: Administração de servidores, gestão de projetos e auditorias.  
 - **Desenvolvimento**:  
-  - Frontend: React, HTML, CSS, JavaScript  
-  - Banco de Dados: Oracle SQL  
-  - Backend: Python, Java, Node.js  
-- **Metodologias Ágeis**: Scrum, liderança e desenvolvimento ágil  
+  - Frontend: React, HTML, CSS, JavaScript, React
+  - Banco de Dados: Oracle SQL, postgree Sql
+  - Backend: Python, Java, Node.js, Kotlin,
+  - Android Studio Developer   
+- **Metodologias Ágeis**: Scrum, kanban, liderança e desenvolvimento ágil  
 - **Ferramentas DevOps**: Docker, Kubernetes e CI/CD  
 
 ---
